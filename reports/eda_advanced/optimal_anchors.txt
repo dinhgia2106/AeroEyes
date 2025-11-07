@@ -1,0 +1,11 @@
+Optimal Anchor Boxes (K-means, k=9)
+============================================================
+Anchor 1: w=0.016180, h=0.019875, area=0.000322, aspect_ratio=0.814082
+Anchor 2: w=0.024948, h=0.038657, area=0.000964, aspect_ratio=0.645376
+Anchor 3: w=0.023749, h=0.081961, area=0.001946, aspect_ratio=0.289758
+Anchor 4: w=0.040853, h=0.049738, area=0.002032, aspect_ratio=0.821363
+Anchor 5: w=0.044490, h=0.077416, area=0.003444, aspect_ratio=0.574688
+Anchor 6: w=0.060751, h=0.065586, area=0.003984, aspect_ratio=0.926289
+Anchor 7: w=0.036855, h=0.145652, area=0.005368, aspect_ratio=0.253034
+Anchor 8: w=0.072790, h=0.087685, area=0.006383, aspect_ratio=0.830136
+Anchor 9: w=0.058566, h=0.192014, area=0.011245, aspect_ratio=0.305008
