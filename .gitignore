@@ -60,3 +60,4 @@ observing/train/annotations/
 /public_test
 /dataset_yolo
 /dataset_yolo_enhanced
+/workdir_one_shot
